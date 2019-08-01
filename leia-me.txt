@@ -1,0 +1,11 @@
+Dicas:
+
+1- Abra o arquivo index.html em seu navegador
+
+2- Pressione a tecla F12 ou inspecionar (área console) poderá ver o objeto chegando na controler
+
+3- Altere o código no arquivo index.html (onde encontra-se a mensagem "Implemente aqui o  visual com a listagem dos filmes") para listar as informações conforme o teste proposto.
+
+- Utilize as estruturas ng-repeat 
+
+4- Crie um arquivo de .css na pasta styles. Use sua criatividade para apresentar o visual da página.
