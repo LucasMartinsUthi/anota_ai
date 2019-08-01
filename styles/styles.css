@@ -2,3 +2,17 @@
     color: #212529;
     font-weight: bolder;
 }
+
+.delete{
+    float: right;
+}
+
+.delete i{
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.delete i:hover{
+    cursor: pointer;
+    color: #212529 !important;
+}
